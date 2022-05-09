@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi there</h1>
 <p align="center">
-  I started learning web development end of 2021, and it</br>
+  I started learning web development in august of 2021, and it</br>
   now has become one of the things I enjoy doing the most!</br>
   Everyday is a new opportunity to learn something new.
 </p>
