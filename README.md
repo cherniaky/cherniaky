@@ -8,8 +8,8 @@
 </p>
 <h1 align="center"> 🎯 Goals </h1>
 <ul align="center">
-Mastering ReactJS</br>
-Practice Typescript </br>
+Study webpack</br>
+Build my own framework </br>
 Study application architecture </br>
 </ul>
 <h1 align="center"> 💻 Currently working with </h1>
