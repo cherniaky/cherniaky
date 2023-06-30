@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi there</h1>
 <p align="left">
-  I enjoy exploring a variety of interesting topics, with a particular interest in the web development and artificial intelligence. I'm always eager to learn new things and push the boundaries of what's possible 🧠🤖💥
+  I enjoy exploring a variety of interesting topics. I'm always eager to learn new things and push the boundaries of what's possible 🧠🤖💥
 </p>
 <!-- <h1 align="center"> 🎯 Goals </h1>
 <ul align="center">
