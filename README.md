@@ -4,7 +4,7 @@
 <p align="left">
   I enjoy exploring a variety of interesting topics. I'm always eager to learn new things and push the boundaries of what's possible 🧠🤖💥
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cherniakyura&show_icons=true&locale=en" alt="yura cherniak" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cherniakyura&show_icons=true&locale=en&layout=compact" alt="yura cherniak" /></p>
 <!-- <h1 align="center"> 🎯 Goals </h1>
 <ul align="center">
 Study webpack</br>
