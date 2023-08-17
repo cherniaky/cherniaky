@@ -1,8 +1,9 @@
-<h2 align="center"> <a href="https://portfolio-cherniakyura.vercel.app/">My portfolio</a></h1>
+<!-- <h2 align="center"> <a href="https://portfolio-cherniakyura.vercel.app/">My portfolio</a></h1>
 
-<!-- <h1 align="center">👋 Hi there</h1> -->
+ <h1 align="center">👋 Hi there</h1> -->
 <p align="left">
-  I enjoy exploring a variety of interesting topics. I'm always eager to learn new things and push the boundaries of what's possible 🧠🤖💥
+  I like exploring a variety of interesting topics.
+  <!-- I'm always eager to learn new things and push the boundaries of what's possible 🧠🤖💥-->
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cherniakyura&show_icons=true&locale=en&layout=compact&theme=dark" alt="yura cherniak" /></p>
  <h1 align="center"> 🎯 Goals </h1>
