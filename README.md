@@ -2,7 +2,7 @@
 
  <h1 align="center">👋 Hi there</h1> -->
 <p align="left">
-  I like exploring a variety of interesting topics.
+  I like programming.
   <!-- I'm always eager to learn new things and push the boundaries of what's possible 🧠🤖💥-->
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cherniakyura&show_icons=true&locale=en&layout=compact&theme=dark" alt="yura cherniak" /></p>
