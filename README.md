@@ -1,6 +1,6 @@
 <h2 align="center"> <a href="https://portfolio-cherniakyura.vercel.app/">My portfolio</a></h1>
 
-<h1 align="center">👋 Hi there</h1>
+<!-- <h1 align="center">👋 Hi there</h1> -->
 <p align="left">
   I enjoy exploring a variety of interesting topics. I'm always eager to learn new things and push the boundaries of what's possible 🧠🤖💥
 </p>
